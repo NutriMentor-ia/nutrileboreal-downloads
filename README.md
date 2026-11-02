@@ -4,10 +4,10 @@ Plataforma de formação e prática clínica nutricional.
 
 - [Aplicativo web](https://app.nutrimentor.com.br)
 - [Site oficial](https://nutrimentor.com.br)
-- [Aplicativo 1.3.16 / build 146](https://github.com/NutriMentor-ia/nutrileboreal-downloads/releases/tag/v1.3.16)
-- [Motor Boreal Voice 1.0.1](https://github.com/NutriMentor-ia/nutrileboreal-downloads/releases/tag/boreal-voice-v1.0.1)
+- [Aplicativo 1.3.17 / build 147](https://github.com/NutriMentor-ia/nutrileboreal-downloads/releases/tag/v1.3.17)
+- [Motor Boreal Voice 1.0.2](https://github.com/NutriMentor-ia/nutrileboreal-downloads/releases/tag/boreal-voice-v1.0.2)
 
-A versão 1.3.16 corrige o registro de aceite dos termos, a compatibilidade de turnos da Aurora no Redmi e a rota de IA usada pelo cliente. Boreal Live lê sem Markdown e prepara o motor local após seleção explícita. Motor Boreal1.0.1 antecipa a geração de frases para reduzir pausas. A latência depende do aparelho e da conexão.
+A versão 1.3.17 corrige o registro de aceite dos termos, a compatibilidade de turnos da Aurora no Redmi e a rota de IA usada pelo cliente. Boreal Live lê sem Markdown e prepara o motor local após seleção explícita. Motor Boreal1.0.2 antecipa a geração de frases para reduzir pausas. A latência depende do aparelho e da conexão.
 
 Os releases principais incluem APK Android, Windows x64 instalado/portátil, Linux x64, SHA256SUMS e downloads.json. Pacotes Windows/Linux têm conteúdo conferido; execução dos instaladores ainda depende de validação. Identificadores e dados locais são preservados nas atualizações.
 
