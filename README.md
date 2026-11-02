@@ -1,14 +1,14 @@
 # NutrileBoreal — downloads oficiais
 
-Instaladores e verificações da plataforma de formação e prática clínica nutricional.
+Plataforma de formação e prática clínica nutricional.
 
-- [Abrir aplicativo Web](https://app.nutrimentor.com.br)
+- [Aplicativo web](https://app.nutrimentor.com.br)
 - [Site oficial](https://nutrimentor.com.br)
-- [Última distribuição do aplicativo (v1.3.15)](https://github.com/NutriMentor-ia/nutrileboreal-downloads/releases/latest)
-- [Motor complementar de voz local — Boreal Voice v1.0.0](https://github.com/NutriMentor-ia/nutrileboreal-downloads/releases/tag/boreal-voice-v1.0.0)
+- [Aplicativo 1.3.16 / build 146](https://github.com/NutriMentor-ia/nutrileboreal-downloads/releases/tag/v1.3.16)
+- [Motor Boreal Voice 1.0.1](https://github.com/NutriMentor-ia/nutrileboreal-downloads/releases/tag/boreal-voice-v1.0.1)
 
-A versão **1.3.15 / build 145** integra a opção **Boreal Live** (voz masculina local Faber em Android via motor complementar BorealVoice.apk), preservando a **Aurora Live** de forma independente. Aplicativo anteriormente chamado NutriMentor; identificadores e endereços atuais são preservados para atualização sem apagar dados.
+A versão 1.3.16 corrige o registro de aceite dos termos, a compatibilidade de turnos da Aurora no Redmi e a rota de IA usada pelo cliente. Boreal Live lê sem Markdown e prepara o motor local após seleção explícita. Motor Boreal1.0.1 antecipa a geração de frases para reduzir pausas. A latência depende do aparelho e da conexão.
 
-Cada release principal inclui APK Android, instalador Windows x64, portátil Windows x64, arquivo Linux x64, SHA256SUMS e downloads.json. Os pacotes Windows/Linux estão disponíveis para validação; empacotamento não comprova execução em todas as distribuições.
+Os releases principais incluem APK Android, Windows x64 instalado/portátil, Linux x64, SHA256SUMS e downloads.json. Pacotes Windows/Linux têm conteúdo conferido; execução dos instaladores ainda depende de validação. Identificadores e dados locais são preservados nas atualizações.
 
-O release complementar oreal-voice-v1.0.0 distribui o APK do motor Android isolado (BorealVoice.apk) e o pacote BorealVoice-Sources.zip com o código-fonte e avisos sob GPLv3 exclusivos desse motor complementar de síntese de voz. **O código-fonte principal do aplicativo NutrileBoreal permanece privado** e não faz parte desse pacote. Não há dados clínicos reais neste repositório. A adoção da marca não equivale à concessão de registro no INPI.
+Boreal Live utiliza a voz masculina Faber por escolha do fundador; Aurora Live continua independente. O motor complementar Android isolado distribui BorealVoice.apk e BorealVoice-Sources.zip com fontes correspondentes e avisos sob GPL-3.0-only. O código principal do aplicativo permanece privado e não integra o pacote de fontes do motor. Não há dados clínicos reais neste repositório. A marca não foi declarada registrada no INPI.
