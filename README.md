@@ -4,7 +4,7 @@ Treino prático de raciocínio clínico nutricional.
 
 - [Aplicativo web](https://app.nutrimentor.com.br)
 - [Site oficial](https://nutrimentor.com.br)
-- [Aplicativo 1.3.23 / build 153](https://github.com/NutriMentor-ia/nutrileboreal-downloads/releases/tag/v1.3.23)
+- [Aplicativo 1.3.24 / build 154](https://github.com/NutriMentor-ia/nutrileboreal-downloads/releases/tag/v1.3.24)
 - [Motor Boreal Voice1.0.3](https://github.com/NutriMentor-ia/nutrileboreal-downloads/releases/tag/boreal-voice-v1.0.3)
 
 O Educador de Exames está no Início e na Jornada Clínica:8casos fictícios,32decisões comentadas, explicações dos marcadores e referências. Treina leitura integrada, mecanismos, contexto e próximo passo. Erros de segurança permanecem destacados. Funciona offline após carregar o aplicativo, com progresso local separado por conta e sem chamadas de IA por exercício. Não é análise de exames reais, diagnóstico, prescrição ou certificação. Conteúdo sujeito a revisão profissional e atualização.
